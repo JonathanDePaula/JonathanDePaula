@@ -2,7 +2,6 @@
 
 
 - 🌱 I’m currently learning Node.js, TypeScript and React
-- 💬 Ask me about BPMN
 - ⚡ Fun fact: I started working with tech when I was 30. =D
 
 ##
